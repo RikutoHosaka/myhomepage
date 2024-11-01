@@ -877,6 +877,12 @@ freewheel.tv, 1220655, RESELLER
 yahoo.com, 59052, RESELLER
 risecodes.com, 6022acddc8b2f90001767980, RESELLER
 fivecdm.com,91804509,DIRECT
+ad-generation.jp, 14175, DIRECT, 7f4ea9029ac04e53
+ad-generation.jp, 14175-2, RESELLER, 7f4ea9029ac04e53
+pubmatic.com, 158357, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 5444561541445527220, RESELLER, 29bc7d05d309e1bc
+rhythmone.com, 5444561541445527220, RESELLER, a670c89d4a324e47
+xandr.com, 8449, RESELLER
 
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
